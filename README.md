@@ -6,4 +6,4 @@ A responsive web app to explore and search movies using real-time API data. Feat
 
 
 
-![image alt]()
+![image alt](https://github.com/MOHAMMED-KHAJA-045/MOVIES-WEB-APPLICATION/blob/2fdb33d615da80baf1b491bc2c81ea89c6deb490/UI.png)
